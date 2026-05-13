@@ -27,11 +27,11 @@ I am recognized for my analytical mindset, problem-solving abilities, adaptabili
 <div align="center">
 <h2>💻 Tech Stack</h2>
 
-| **Backend** | **Frontend** | **Databases & ORM** | **DevOps & Tools** |
+| **Backend** | **Frontend** | **Databases** | **DevOps & Tools** |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs&theme=dark" width="100"/> | <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind&theme=dark" width="100"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&theme=dark" width="80"/> | <img src="https://skillicons.dev/icons?i=git,github,azure,docker&theme=dark" width="100"/> |
+| <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,prisma&theme=dark" width="100"/> | <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind&theme=dark" width="100"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" width="80"/> | <img src="https://skillicons.dev/icons?i=git,github,azure,docker&theme=dark" width="100"/> |
 | Java, Spring, Hibernate | React, TypeScript | PostgreSQL, Oracle | Git, Azure DevOps |
-| Node.js, NestJS | JavaScript, Tailwind | MySQL, Prisma | CI/CD, Docker |
+| Node.js, NestJS, Prisma | JavaScript, Tailwind | MySQL | CI/CD, Docker |
 
 </div>
 
